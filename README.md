@@ -8,8 +8,6 @@ For this project I was tasked with overseeing the largest bike sharing program i
 
 Technolgies: Tableau
 
-Story can be found here: 
-https://public.tableau.com/profile/chandler.gibbons#!/vizhome/city_bike_analysis_whole_2_16188025479920/Story1?publish=yes
 
 
 ## SLIDE 1: What are the peak hours in which bikes are used during winter months?
